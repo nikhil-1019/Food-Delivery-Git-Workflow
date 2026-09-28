@@ -1,1 +1,11 @@
+FOOD DELIVERY APPLICATION
+
 LOGIN MODULE
+
+Features:
+- User login
+- User authentication
+- Logout
+- Session management
+
+Status: Login module development completed.
