@@ -1,1 +1,11 @@
-LOGIN MODULE - DEVELOP BRANCH
+FOOD DELIVERY APPLICATION
+
+LOGIN MODULE - FEATURE BRANCH
+
+Features:
+- User login
+- User authentication
+- Logout
+- Session management
+
+Status: Login module development completed.
